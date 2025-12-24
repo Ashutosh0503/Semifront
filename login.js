@@ -6,6 +6,9 @@ document.addEventListener('DOMContentLoaded', function() {
     const successMessage = document.getElementById('successMessage');
 
     // Demo credentials for testing
+    // WARNING: This is for demonstration purposes only!
+    // In a production application, authentication should be handled server-side
+    // with proper security measures (hashing, HTTPS, JWT tokens, etc.)
     const validCredentials = {
         username: 'demo',
         password: 'demo123'

@@ -28,3 +28,13 @@ A simple frontend application with user authentication.
 - `index.html` - Main login page structure
 - `styles.css` - Styling and layout
 - `login.js` - Login functionality and validation
+
+## Note
+
+⚠️ **This is a demonstration project.** The authentication is handled client-side for demo purposes only. In a production environment, authentication should always be handled server-side with proper security measures including:
+- HTTPS encryption
+- Password hashing
+- Secure token management (JWT, OAuth)
+- Backend API validation
+- Rate limiting
+- CSRF protection

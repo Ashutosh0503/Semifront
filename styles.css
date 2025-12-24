@@ -103,13 +103,13 @@ input[type="password"]:focus {
 
 .error-message {
     background-color: #fee;
-    color: #c33;
+    color: #d32f2f;
     border: 1px solid #fcc;
 }
 
 .success-message {
     background-color: #efe;
-    color: #3c3;
+    color: #388e3c;
     border: 1px solid #cfc;
 }
 
